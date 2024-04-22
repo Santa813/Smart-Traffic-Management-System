@@ -1,1 +1,1 @@
-# Smart-Traffic-Management-System-1
+# Smart-Traffic-Management-System
